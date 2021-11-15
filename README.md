@@ -7,4 +7,4 @@ https://julia-kocik.github.io/snake/
 - @html
 - @canvas
 - @css
-- @JS
+- @JavaScript
